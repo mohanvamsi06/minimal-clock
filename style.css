@@ -3,13 +3,11 @@
     justify-content: center;
     align-items: center;
     height: 93vh;
-    width: 95vw;
   }
   
   h1 {
-    font-size: 40vh;
+    font-size: 300px;
     text-align: center;
-    position: center;
   }
   
 
